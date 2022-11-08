@@ -1,0 +1,17 @@
+Series Temporais
+
+
+
+
+Usando InfluxDB para coletar dados do Jenkins
+
+https://medium.com/@rodrigosiviero/usando-influxdb-para-coletar-dados-do-jenkins-1ee0d9148fc1
+
+
+
+Primeiros passos: gravando dados no InfluxDB
+
+https://dganais.medium.com/getting-started-writing-data-to-influxdb-54ce99fdeb3e
+
+
+
