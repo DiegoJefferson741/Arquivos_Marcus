@@ -1,0 +1,25 @@
+
+pip install geocoder
+
+python
+
+import geocoder
+
+print(geocoder.ip('me').latlng)
+
+https://api.openweathermap.org/data/2.5/forecast?lat=-21.1306&lon=-42.3664&units=metric&appid=250632c07004be73dff997882d234fa6
+
+
+//----------------------------------------------
+//Entrar na area de usuario
+cd Desktop
+
+
+// subir o dokercompose
+docker-compose up
+
+//Exercutar o codigo do arquivo python da area de trabalho
+
+openweather_pandas.py
+
+
